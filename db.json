@@ -1,0 +1,39 @@
+{
+  "Cars": [
+    {
+      "id": 1,
+      "name": "Generic modern SUV 2022",
+      "image": "https://media.gettyimages.com/photos/generic-modern-suv-car-in-concrete-garage-picture-id1307086567?s=2048x2048",
+      "price": "34000",
+      "seats": 4
+    },
+    {
+      "id": 2,
+      "name": "Silver Modern Compact Car 2022",
+      "image": "https://media.gettyimages.com/photos/side-of-silver-modern-compact-car-on-a-white-background-picture-id155376760?s=2048x2048",
+      "price": "30000",
+      "seats": 5
+    },
+    {
+      "id": 3,
+      "name": "Blue Sports Car",
+      "image": "https://media.gettyimages.com/photos/blue-sports-car-about-to-travel-through-tunnel-at-speed-picture-id1304020215?s=2048x2048",
+      "price": "97500",
+      "seats": 2
+    },
+    {
+      "id": 4,
+      "name": "White Compact Car",
+      "image": "https://media.gettyimages.com/photos/white-compact-car-picture-id169941291?s=2048x2048",
+      "price": "25000",
+      "seats": 4
+    },
+    {
+      "id": 5,
+      "name": "Chevrolet Bel Air 1958",
+      "image": "https://media.gettyimages.com/photos/chevrolet-bel-air-from-1958-picture-id165886452?s=2048x2048",
+      "price": "8400",
+      "seats": 2
+    }
+  ]
+}
